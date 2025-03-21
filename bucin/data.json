@@ -1,0 +1,222 @@
+[
+    {
+        "title": "Ajak",
+        "description": "Undangan khusus untukmu.",
+        "folder": "ajak"
+    },
+    {
+        "title": "Aku Ada",
+        "description": "Pesan keberadaan untuk seseorang spesial.",
+        "folder": "akuada"
+    },
+    {
+        "title": "Aku Ada Pesan",
+        "description": "Pesan penting yang ingin disampaikan.",
+        "folder": "akuadapesan"
+    },
+    {
+        "title": "Aku Akan",
+        "description": "Janji atau rencana yang akan dilakukan.",
+        "folder": "akuakan"
+    },
+    {
+        "title": "Aku Boleh",
+        "description": "Permintaan izin untuk melakukan sesuatu.",
+        "folder": "akuboleh"
+    },
+    {
+        "title": "Aku Cuma",
+        "description": "Pernyataan sederhana tentang dirimu.",
+        "folder": "akucuma"
+    },
+    {
+        "title": "Aku Kasih Kamu",
+        "description": "Hadiah atau perhatian spesial untukmu.",
+        "folder": "akukasihkamu"
+    },
+    {
+        "title": "Aku Milih Kamu",
+        "description": "Pilihan istimewa untuk seseorang.",
+        "folder": "akumilihkamu"
+    },
+    {
+        "title": "Aku Minta",
+        "description": "Permintaan tulus dari hati.",
+        "folder": "akuminta"
+    },
+    {
+        "title": "Aku Punya",
+        "description": "Koleksi pribadi yang ingin dibagikan.",
+        "folder": "akupunya"
+    },
+    {
+        "title": "Aku Tunggu",
+        "description": "Harapan untuk bertemu atau mendengar kabar.",
+        "folder": "akutunggu"
+    },
+    {
+        "title": "Alasan",
+        "description": "Penjelasan tentang sesuatu yang penting.",
+        "folder": "alasan"
+    },
+    {
+        "title": "Apa Bedanya",
+        "description": "Perbandingan antara dua hal.",
+        "folder": "apabedanya"
+    },
+    {
+        "title": "Apa Pun",
+        "description": "Pernyataan tanpa syarat.",
+        "folder": "apapun"
+    },
+    {
+        "title": "Asal Kamu Tahu",
+        "description": "Pesan yang ingin kamu ketahui.",
+        "folder": "asalkamutau"
+    },
+    {
+        "title": "Baca Ini",
+        "description": "Permintaan untuk membaca sesuatu.",
+        "folder": "bacaini"
+    },
+    {
+        "title": "Bahagia",
+        "description": "Cerita tentang kebahagiaan.",
+        "folder": "bahagia"
+    },
+    {
+        "title": "Baru Bangun",
+        "description": "Pesan pagi hari setelah bangun tidur.",
+        "folder": "barubangun"
+    },
+    {
+        "title": "Bedanya Kamu",
+        "description": "Keunikan yang membedakanmu.",
+        "folder": "bedanyakamu"
+    },
+    {
+        "title": "Bentar Lagi",
+        "description": "Informasi tentang sesuatu yang akan datang.",
+        "folder": "bentaryl"
+    },
+    {
+        "title": "Bentar Ya",
+        "description": "Permintaan waktu sejenak.",
+        "folder": "bentarya"
+    },
+    {
+        "title": "Berapa Nih",
+        "description": "Pertanyaan tentang jumlah atau nilai.",
+        "folder": "berapanih"
+    },
+    {
+        "title": "Berapa Ya",
+        "description": "Pertanyaan tentang angka atau harga.",
+        "folder": "berapaya"
+    },
+    {
+        "title": "Berharga",
+        "description": "Sesuatu yang sangat berarti.",
+        "folder": "berharga"
+    },
+    {
+        "title": "Beruntung",
+        "description": "Ungkapan rasa syukur atas keberuntungan.",
+        "folder": "beruntung"
+    },
+    {
+        "title": "Bilang Sesuatu",
+        "description": "Ajakan untuk mengungkapkan perasaan.",
+        "folder": "bilangsesuatu"
+    },
+    {
+        "title": "Boleh Bilang",
+        "description": "Memberi izin untuk berbicara.",
+        "folder": "bolehbilang"
+    },
+    {
+        "title": "Boleh Minta",
+        "description": "Permintaan dengan sopan.",
+        "folder": "bolehminta"
+    },
+    {
+        "title": "Boleh Ya",
+        "description": "Permintaan persetujuan.",
+        "folder": "bolehya"
+    },
+    {
+        "title": "Boleh Ya (Draft)",
+        "description": "Versi draft dari permintaan persetujuan.",
+        "folder": "bolehya_draft"
+    },
+    {
+        "title": "Buat Kamu",
+        "description": "Sesuatu yang khusus dibuat untukmu.",
+        "folder": "buatkamu"
+    },
+    {
+        "title": "Buat Kamu Aja",
+        "description": "Hadiah pribadi hanya untukmu.",
+        "folder": "buatkamuaja"
+    },
+    {
+        "title": "Buka Bentar",
+        "description": "Permintaan untuk membuka sesuatu sebentar.",
+        "folder": "bukabentar"
+    },
+    {
+        "title": "Buka Bentar Ya",
+        "description": "Permintaan untuk membuka sesuatu dengan izin.",
+        "folder": "bukabentarya"
+    },
+    {
+        "title": "Buka Dong",
+        "description": "Ajakan untuk membuka sesuatu.",
+        "folder": "bukadong"
+    },
+    {
+        "title": "Celta",
+        "description": "Referensi mungkin terkait mobil atau merek.",
+        "folder": "celta"
+    },
+    {
+        "title": "Coba",
+        "description": "Ajakan untuk mencoba sesuatu.",
+        "folder": "coba"
+    },
+    {
+        "title": "Cuma",
+        "description": "Pernyataan sederhana tentang sesuatu.",
+        "folder": "cuma"
+    },
+    {
+        "title": "Cuma Pengen",
+        "description": "Keinginan sederhana dari hati.",
+        "folder": "cumapengen"
+    },
+    {
+        "title": "Dari Aku",
+        "description": "Pesan pribadi langsung dari aku.",
+        "folder": "dariaku"
+    },
+    {
+        "title": "Dari Ku",
+        "description": "Pesan pribadi langsung dariku.",
+        "folder": "dariku"
+    },
+    {
+        "title": "Di Antara",
+        "description": "Cerita tentang sesuatu di tengah-tengah.",
+        "folder": "diantara"
+    },
+    {
+        "title": "Dibaca Dong",
+        "description": "Permintaan untuk membaca sesuatu.",
+        "folder": "dibacadong"
+    },
+    {
+        "title": "Dibaca Ya",
+        "description": "Ajakan untuk membaca dengan serius.",
+        "folder": "dibacaya"
+    }
+]
