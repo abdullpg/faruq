@@ -1,1 +1,0 @@
-S.id/bolehbilang
